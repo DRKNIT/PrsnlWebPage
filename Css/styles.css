@@ -116,7 +116,7 @@ a:hover {
 
 .mountainImg {
   width: 100%;
-  /*height:auto;*/
+  display: block;
 }
 
 .MiddleContainer {
